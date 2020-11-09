@@ -1,0 +1,23 @@
+{
+  "name": "vercel-node-knex-api",
+  "version": "1.0.0",
+  "description": "API with node and knex using vercel servless functions",
+  "main": "index.js",
+  "engines": {
+    "node": "12.x"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danielschmitz/vercel-node-knex-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danielschmitz/vercel-node-knex-api/issues"
+  },
+  "homepage": "https://github.com/danielschmitz/vercel-node-knex-api#readme"
+}
