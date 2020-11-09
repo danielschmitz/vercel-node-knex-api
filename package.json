@@ -19,5 +19,10 @@
   "bugs": {
     "url": "https://github.com/danielschmitz/vercel-node-knex-api/issues"
   },
-  "homepage": "https://github.com/danielschmitz/vercel-node-knex-api#readme"
+  "homepage": "https://github.com/danielschmitz/vercel-node-knex-api#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "knex": "^0.21.12",
+    "pg": "^8.4.2"
+  }
 }
