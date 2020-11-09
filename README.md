@@ -1,2 +1,4 @@
 # vercel-node-knex-api
-API with node and knex using vercel servless functions
+A simlpe API with node and knex using vercel servless functions
+
+Example: https://vercel-node-knex-api.vercel.app/api/users
